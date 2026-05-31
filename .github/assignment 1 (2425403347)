@@ -1,0 +1,32 @@
+# File: initials.py
+# Description: Print out my initials (EAK) in stylized large block letters.
+# Assignment Number: 1
+#
+# Name: Essuman Emmanuel Adom Kwesi
+# STUDENT ID:  2425403347
+# Email: 2425403347@live.gctu.edu.gh
+# Grader: AUGUSTUS
+#
+# On my honor, Essuman Emmanuel Adom Kwesi, this programming assignment is my own work
+# and I have not provided this code to any other student.
+
+
+def main():
+    """Prints small initials and stylized large block initials with strict constraints."""
+    print()
+    print("...EAK")
+    print()
+    print("...EEEEEEEEEEEE.........AAAAAAAAAAAA.........KK........KK....")
+    print("...EEEEEEEEEEEE.........AAAAAAAAAAAA.........KK........KK....")
+    print("...EE...................AA........AA.........KK......KK......")
+    print("...EE...................AA........AA.........KK....KK........")
+    print("...EEEEEEEEEEEE.........AAAAAAAAAAAA.........KKKKKK..........")
+    print("...EEEEEEEEEEEE.........AAAAAAAAAAAA.........KKKKKK..........")
+    print("...EE...................AA........AA.........KK....KK........")
+    print("...EE...................AA........AA.........KK......KK......")
+    print("...EEEEEEEEEEEE...**....AA........AA...**....KK........KK....**")
+    print("...EEEEEEEEEEEE...**....AA........AA...**....KK........KK....**")
+    print()
+
+
+main()
